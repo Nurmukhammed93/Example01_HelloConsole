@@ -1,0 +1,15 @@
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/bin/Debug/net7.0/Example001HiConsole
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/bin/Debug/net7.0/Example001HiConsole.deps.json
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/bin/Debug/net7.0/Example001HiConsole.runtimeconfig.json
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/bin/Debug/net7.0/Example001HiConsole.dll
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/bin/Debug/net7.0/Example001HiConsole.pdb
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/Example001HiConsole.csproj.AssemblyReference.cache
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/Example001HiConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/Example001HiConsole.AssemblyInfoInputs.cache
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/Example001HiConsole.AssemblyInfo.cs
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/Example001HiConsole.csproj.CoreCompileInputs.cache
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/Example001HiConsole.dll
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/refint/Example001HiConsole.dll
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/Example001HiConsole.pdb
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/Example001HiConsole.genruntimeconfig.cache
+/Users/nurmukhammedtursynbay/Desktop/NewFolder/Example001HiConsole/obj/Debug/net7.0/ref/Example001HiConsole.dll
